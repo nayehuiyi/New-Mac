@@ -180,6 +180,24 @@ defaults write com.apple.screencapture type -string "jpg"
 sudo spctl --master-disable
 ```
 
+#### 输入法
+
+```bash
+# 官网下载并安装豆包输入法
+
+# 删除自带的 ABC 输入法（按需）
+brew install --cask plistedit-pro
+sudo open ~/Library/Preferences/com.apple.HIToolbox.plist
+# 在 PlistEdit Pro 中打开 Root → AppleEnabledInputSources，
+# 找到 KeyboardLayout 为 "ABC" 的整条 item 并删除
+
+# ⚠️ 关键步骤：防止系统自动还原
+open ~/Library/Preferences
+# 右键 com.apple.HIToolbox.plist → 显示简介 → 勾选「锁定」
+
+brew uninstall --cask plistedit-pro
+```
+
 ---
 
 ## 终端配置
