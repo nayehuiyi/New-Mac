@@ -26,7 +26,7 @@
 |------|------|----------|------|
 | [Homebrew](https://brew.sh) | macOS 包管理器，装一切的前提 | 官网脚本 | ✅ 已安装 |
 | [Docker](https://www.docker.com/products/docker-desktop/) | 容器化开发环境 | 官网下载 | ✅ 已安装 |
-| [Claude Code](https://docs.anthropic.com/zh-CN/docs/claude-code/overview) | Anthropic 官方 AI CLI 编程助手 | `npm install -g @anthropic-ai/claude-code` | ✅ 已安装 |
+| [Claude Code](https://docs.anthropic.com/zh-CN/docs/claude-code/overview) | Anthropic 官方 AI CLI 编程助手 | `brew install --cask claude-code` | ✅ 已安装 |
 | [CC-Switch](https://www.ccswitch.io/zh/) | Claude Code / Codex / Gemini CLI 配置管理与切换 | 官网下载 | ✅ 已安装 |
 | [Ghostty](https://ghostty.org) | 新一代 GPU 加速终端模拟器 | `brew install --cask ghostty` | ✅ 已安装 |
 | [VS Code](https://code.visualstudio.com) | 主力代码编辑器 | `brew install --cask visual-studio-code` | 💡 推荐 |
