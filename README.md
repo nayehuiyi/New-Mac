@@ -29,6 +29,7 @@
 | [CC-Switch](https://www.ccswitch.io/zh/) | Claude Code / Codex / Gemini CLI 配置管理与切换 | 官网下载 | ✅ 已安装 |
 | [Ghostty](https://ghostty.org) | 新一代 GPU 加速终端模拟器 | `brew install --cask ghostty` | ✅ 已安装 |
 | [Surge](https://nssurge.com) | 网络代理 + 流量调试工具 | 官网下载 | ✅ 已安装 |
+| [Docker](https://www.docker.com/products/docker-desktop/) | 容器化开发环境 | 官网下载 | ✅ 已安装 |
 | [VS Code](https://code.visualstudio.com) | 主力代码编辑器 | `brew install --cask visual-studio-code` | 💡 推荐 |
 | [Cursor](https://cursor.sh) | AI-native 编辑器（VS Code 分支） | 官网下载 | 💡 推荐 |
 | [Sublime Merge](https://www.sublimemerge.com) | Git GUI 客户端，简洁够用 | `brew install --cask sublime-merge` | 💡 推荐 |
@@ -125,7 +126,7 @@
 |------|------|----------|------|
 | [iShot Pro](https://www.better365.cn/ishot) | 截图 / 长截图 / 录屏 / 标注 | App Store | ✅ 已安装 |
 | [iMazing](https://imazing.com) | iOS 设备备份与文件管理 | 官网下载 | ✅ 已安装 |
-| [Parallels Desktop](https://www.parallels.com) | Mac 虚拟机，跑 Windows | 官网下载 | 💡 推荐 |
+| [Parallels Desktop](https://www.parallels.com) | Mac 虚拟机，跑 Windows | 官网下载 | ✅ 已安装 |
 
 ---
 
